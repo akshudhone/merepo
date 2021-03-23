@@ -1,0 +1,47 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row heading">
+                BREAKFAST PLACES IN MUMBAI
+            </div>
+            <div class="row">
+                <div class="col-3 filtersection">
+                    <div class="SectionHeading">Filters</div>
+                    <div class="SectionSubheading">Select Location</div>
+                    <select class="locationselection">
+                        <option>Mumbai</option>
+                        <option>Delhi</option>
+                        <option>Pune</option>
+                        <option>Nagpur</option>
+                    </select>
+                    <div class="SectionSubheading">Cuisine</div>
+                    <div class="cuisineselection"><input type="checkbox">North Indian</div>
+                    <div class="cuisineselection"><input type="checkbox">South Indian</div>
+                    <div class="cuisineselection"><input type="checkbox">Fast Food</div>
+                    <div class="cuisineselection"><input type="checkbox">Chinese</div>
+                    <div class="cuisineselection"><input type="checkbox">Street Food</div>
+                    <div class="SectionSubheading">Cost for two</div>
+                    <div class="cuisineselection"><input type="radio" name="Cost">Less than &#8377; 500</div>
+                    <div class="cuisineselection"><input type="radio" name="Cost">Less than &#8377; 500</div>
+                    <div class="cuisineselection"><input type="radio" name="Cost">Less than &#8377; 500</div>
+                    <div class="cuisineselection"><input type="radio" name="Cost">Less than &#8377; 500</div>
+                    <div class="cuisineselection"><input type="radio" name="Cost">Less than &#8377; 500</div>
+
+                </div>
+
+                <div class="col-9 designsection">
+                    <div class="row resultBox">
+                        <div class="topsection">
+                            <div class="col-3">
+                                <img src="./Good_Food_Display_-_NCI_Visuals_Online.jpg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>
